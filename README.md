@@ -59,3 +59,10 @@ The objective of this analysis is to identify valuable customer segments, unders
 **Oluwatobi Olayiwola**
 
 Business Intelligence | Data Analytics | Power BI | SQL
+
+## Dashboard Preview
+
+
+### Executive Overview
+
+![Executive Overview]((https://github.com/TobiAnalyzes/RFM-Customer-Segmentation-Dashboard/blob/main/Screenshot%202026-07-06%20174238.png?raw=true))
