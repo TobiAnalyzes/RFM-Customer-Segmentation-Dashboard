@@ -71,13 +71,16 @@ Business Intelligence | Data Analytics | Power BI | SQL
 
 ### Customer Segmentation Analysis
 
+
 <img width="720" height="611" alt="Screenshot 2026-07-06 173708" src="https://github.com/user-attachments/assets/ffc022da-41d3-4315-97db-e40a9cb14d69" />
 
 ### Customer Behaviour Analysis
 
+
 <img width="960" height="741" alt="Screenshot 2026-07-06 174013" src="https://github.com/user-attachments/assets/a9feca0d-c8e6-4226-bd3b-9d3c458b6954" />
 
 ### Business Recommendations
+
 
 <img width="926" height="541" alt="Screenshot 2026-07-06 174049" src="https://github.com/user-attachments/assets/98e2b315-269d-4277-8ed3-0a0df63f57cd" />
 
