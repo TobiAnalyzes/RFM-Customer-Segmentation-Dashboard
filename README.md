@@ -65,4 +65,4 @@ Business Intelligence | Data Analytics | Power BI | SQL
 
 ### Executive Overview
 
-![Executive Overview]((https://github.com/TobiAnalyzes/RFM-Customer-Segmentation-Dashboard/blob/main/Screenshot%202026-07-06%20174238.png?raw=true))
+
