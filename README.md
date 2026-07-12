@@ -66,3 +66,4 @@ Business Intelligence | Data Analytics | Power BI | SQL
 ### Executive Overview
 
 
+<img width="1167" height="635" alt="Screenshot 2026-07-06 174238" src="https://github.com/user-attachments/assets/d2d98222-86d1-47af-a5e4-9f3cf8ad1c0e" />
